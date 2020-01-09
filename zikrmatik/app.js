@@ -1,0 +1,1 @@
+export { imgToCanvas } from 'canvas.js'
